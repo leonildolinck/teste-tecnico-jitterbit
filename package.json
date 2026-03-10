@@ -1,0 +1,26 @@
+{
+  "name": "teste-tecnico-jitterbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonildolinck/teste-tecnico-jitterbit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonildolinck/teste-tecnico-jitterbit/issues"
+  },
+  "homepage": "https://github.com/leonildolinck/teste-tecnico-jitterbit#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4",
+    "nodemon": "^3.1.14"
+  }
+}
